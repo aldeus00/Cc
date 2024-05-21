@@ -30,8 +30,8 @@ def logo():
     figlet = Figlet(font="standard").renderText("EXELANS-CC")
     return (gn + figlet)
 print (logo())
-print (bl + "[-] Powered by Team HH [kolezyumoffical] ")
-print (gn + "[+] Made with / ༒⃕️⃝ᴇͥxͣᴇͫʟᴀɴs࿐")
+print (bl + "[-] TELEGRAM CHANNEL : @kolezyumoffical")
+print (gn + "[+] DEVELOPER 👨‍💻 : ༒⃕️⃝ᴇͥxͣᴇͫʟᴀɴs࿐")
 print (cy + "[=] EXELANS-CC Tool Version : 1.0")
 
 opr = input (mag + "\n[x] 1) Generate single valid cc\n[x] 2) Generate multi valid cc (generate cc list)\n[x] 3) CC validator\n[x] 4) Generate Multi Bin Number \n\n[^] Please Enter an option :  ")
